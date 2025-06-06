@@ -26,3 +26,5 @@
 5.Luego de hacerse mas espesa, se coloca el queso parmesano
 
 6.Finalmente, se colocan el jamon y a su vez, se realizaron los fideos
+
+![alt text](fideos.webp)

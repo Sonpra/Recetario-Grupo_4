@@ -27,4 +27,4 @@
 
 6.Finalmente, se colocan el jamon y a su vez, se realizaron los fideos
 
-![alt text](fideos.webp)
+![alt text](fideos.png)
